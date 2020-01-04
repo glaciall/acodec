@@ -10,6 +10,15 @@ A Java Audio Codec for G711A/G711U/ADPCM. Pure java implements, no any other 3rd
 |G711U (ulaw)|Y|
 |G726|N|
 
+### Maven
+```xml
+<dependency>
+  <groupId>cn.org.hentai</groupId>
+  <artifactId>acodec</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
 ### Example
 
 ```java
